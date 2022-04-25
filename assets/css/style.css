@@ -73,14 +73,14 @@ li:hover{
   background-color: #ccc;
   cursor: pointer;
 }
-.add-card{
+.add-task{
   background-color: rgba(200, 200, 200, 0.699);
   margin: 4px;
   border-radius: 2px;
   padding: 10px;
   cursor: pointer;
 }
-.add-card p{
+.add-task p{
   font-weight: 100;
 }
 
